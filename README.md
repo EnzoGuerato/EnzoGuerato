@@ -1,36 +1,38 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="Gengar Pixel Art Animado" width="100"/>
   
-  <h1>Olá, eu sou o Enzo Canale Guerato! 👻</h1>
+  <h1>Olá, eu sou o EnzoGuerato!</h1>
   
-  <p><em>Desenvolvedor | Transformando café em código e assombrando bugs no sistema!</em></p>
+  <p><em>Desenvolvedor | Transformando café em código!</em></p>
 </div>
 
 ---
 
-### 🔮 Sobre Mim
+### 🔮 Sobre Mim:
 
-Bem-vindo ao meu repositório! Assim como um Gengar, estou sempre evoluindo e me adaptando a novos desafios no mundo da programação. Gosto de explorar novas tecnologias, otimizar sistemas e criar soluções eficientes (e, de vez em quando, dar uns "sustos" naqueles bugs difíceis de encontrar). 
+Bem-vindo ao meu repositório! 
 
-- 🎓 **Foco atual:** [Insira o que você está estudando, ex: Desenvolvimento Web / Engenharia de Software]
-- 💼 **Experiência:** [Breve resumo da sua experiência baseada no LinkedIn]
-- 💜 **Hobby:** [Seu hobby, ex: Jogos, Pixel Art, etc.]
+- 🎓 **Foco atual:** Curso Tecnico em Desenvolvimento de Sistemas.
+- 💼 **Experiência:** Por hora nenhuma.
+- 💜 **Hobby:** Criar Jogos e estudar programação.
 
 ---
 
-### 💻 Minha Stack (Poções e Habilidades)
+### 💻 Minha Stack:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" title="Java" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="45" alt="GDScript / Godot" title="GDScript / Godot" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" title="Python" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="45" alt="Pokémon" title="Mestre Pokémon" style="margin: 0 10px;"/>
 </div>
 
 ---
 
-### 📊 Meus Status de Treinador
+### 📊 Meus Status:
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&fire=a277ff&ring=a277ff&bg_color=1a1b27" alt="GitHub Streak" width="48%"/>
@@ -38,14 +40,14 @@ Bem-vindo ao meu repositório! Assim como um Gengar, estou sempre evoluindo e me
 
 ---
 
-### 🔗 Vamos nos conectar? (Pokégear)
+### 🔗 Contatos:
 
 <div align="center">
   <p>Sinta-se à vontade para me mandar uma mensagem!</p>
   <a href="https://www.linkedin.com/in/enzocanaleguerato" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Enzo"/>
   </a>
-  <a href="mailto:seu_email_aqui@email.com" target="_blank">
+  <a href="mailto:guerato.enzo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-4b0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email do Enzo"/>
   </a>
 </div>
