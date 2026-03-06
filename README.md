@@ -33,7 +33,6 @@ Bem-vindo ao meu repositório! Assim como um Gengar, estou sempre evoluindo e me
 ### 📊 Meus Status de Treinador
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&title_color=a277ff&text_color=9e86c8&bg_color=1a1b27" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&fire=a277ff&ring=a277ff&bg_color=1a1b27" alt="GitHub Streak" width="48%"/>
 </div>
 
