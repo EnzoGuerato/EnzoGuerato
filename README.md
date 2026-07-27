@@ -8,17 +8,16 @@
 
 ---
 
-### 🔮 Sobre Mim:
+###  Sobre Mim:
 
 Bem-vindo ao meu repositório! 
 
-- 🎓 **Foco atual:** Curso Tecnico em Desenvolvimento de Sistemas.
-- 💼 **Experiência:** Por hora nenhuma.
-- 💜 **Hobby:** Criar Jogos e estudar programação.
+-  **Foco atual:** Curso Tecnico em Desenvolvimento de Sistemas.
+-  **Experiência:** Por hora nenhuma.
+-  **Hobby:** Criar Jogos e estudar programação.
 
----
 
-### 💻 Minha Stack:
+###  Minha Stack:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript" style="margin: 0 10px;"/>
@@ -30,17 +29,7 @@ Bem-vindo ao meu repositório!
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="45" alt="Pokémon" title="Mestre Pokémon" style="margin: 0 10px;"/>
 </div>
 
----
-
-### 📊 Meus Status:
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&fire=a277ff&ring=a277ff&bg_color=1a1b27" alt="GitHub Streak" width="48%"/>
-</div>
-
----
-
-### 🔗 Contatos:
+###  Contatos:
 
 <div align="center">
   <p>Sinta-se à vontade para me mandar uma mensagem!</p>
