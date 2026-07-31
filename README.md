@@ -33,15 +33,6 @@ Bem-vindo ao meu repositório. Sou um estudante focado em aprimorar minhas habil
 
 <br>
 
-### Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnzoGuerato&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuerato&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" height="150" alt="Linguagens mais usadas"/>
-</div>
-
-<br>
-
 ### Contato
 
 <div align="center">
