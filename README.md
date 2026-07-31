@@ -1,38 +1,52 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="Gengar Pixel Art Animado" width="100"/>
   
-  <h1>Olá, eu sou o EnzoGuerato!</h1>
+  <h1>Olá, eu sou o Enzo Guerato!</h1>
   
-  <p><em>Desenvolvedor | Transformando café em código!</em></p>
+  <p><em>Desenvolvedor | Transformando café em código</em></p>
 </div>
 
 ---
 
-###  Sobre Mim:
+### Sobre Mim
 
-Bem-vindo ao meu repositório! 
+Bem-vindo ao meu repositório. Sou um estudante focado em aprimorar minhas habilidades em desenvolvimento de software e lógica de programação. Tenho facilidade para o aprendizado contínuo e grande interesse na construção de aplicações e jogos.
 
--  **Foco atual:** Curso Tecnico em Desenvolvimento de Sistemas.
--  **Experiência:** Por hora nenhuma.
--  **Hobby:** Criar Jogos e estudar programação.
+- **Foco atual:** Curso Técnico em Desenvolvimento de Sistemas.
+- **Projetos em andamento:** Desenvolvimento do TCC2026 (Java) e FrontMEITracking (HTML).
+- **Objetivo:** Em busca da minha primeira oportunidade profissional na área de tecnologia para aplicar meus conhecimentos e agregar valor à equipe.
+- **Hobbies:** Criação de jogos (Game Dev) e estudos independentes em programação.
 
+<br>
 
-###  Minha Stack:
+### Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" title="JavaScript" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java" title="Java" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="45" alt="GDScript / Godot" title="GDScript / Godot" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3" style="margin: 0 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" title="Python" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="45" alt="Pokémon" title="Mestre Pokémon" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" title="HTML5" style="margin: 0 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" title="CSS3" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="45" alt="Master Ball" title="Fã de Pokémon" style="margin: 0 10px;"/>
 </div>
 
-###  Contatos:
+<br>
+
+### Estatísticas do GitHub
 
 <div align="center">
-  <p>Sinta-se à vontade para me mandar uma mensagem!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoGuerato&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGuerato&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=c9d1d9" height="150" alt="Linguagens mais usadas"/>
+</div>
+
+<br>
+
+### Contato
+
+<div align="center">
+  <p>Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, desenvolvimento ou oportunidades.</p>
+  
   <a href="https://www.linkedin.com/in/enzocanaleguerato" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Enzo"/>
   </a>
